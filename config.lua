@@ -9,8 +9,8 @@ return {
 	time_offset = 0,
 	lang = 'en',
 	cli_port = 4567,
-	admin = 00000000,
-	admin_name = 'John Smith',
+	admin = 119989724,
+	admin_name = 'Shahabsaf',
 	about_text = [[
 I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
 
