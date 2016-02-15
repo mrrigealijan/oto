@@ -12,12 +12,12 @@ return {
 	admin = 119989724,
 	admin_name = 'Shahabsaf',
 	about_text = [[
-I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
+I am EMC, the plugin-wielding, multi-purpose Telegram bot written by Shahabambesik.
 
 Send /help to get started.
 
 Join my channel for news about updates!
-telegram.me/otouto
+https://telegram.me/joinchat/Bybl3D1DmRBbByAA8ujbbg
 ]]	,
 	errors = {
 		connection = 'Connection error.',
